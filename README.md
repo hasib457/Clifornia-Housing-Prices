@@ -12,12 +12,12 @@ block group typically has a population of 600 to 3,000 people). We will call the
 3. There is no continuous flow of data coming in the system, there is no particular need to adjust to changing data rapidly, and the data is small enough to fit in memory, so plain **batch learning** should do just fine.
 ​
 
-## we will work through an example project end to end, pretending to be a recently hired data scientist at a real estate company. Here are the main steps you will go through:
+## we will work through an example project end to end, pretending to be a recently hired data scientist at a real estate company. Here are the main steps we will go through:
   1. Look at the big picture.
   2. Get the data.
   3. Discover and visualize the data to gain insights.
   4. Prepare the data for Machine Learning algorithms.
   5. Select a model and train it.
-  6. Fine-tune your model.
-  7. Present your solution.
-  8. Launch, monitor, and maintain your system.
+  6. Fine-tune the model.
+  7. Present the solution.
+  8. Launch, monitor, and maintain the system.
